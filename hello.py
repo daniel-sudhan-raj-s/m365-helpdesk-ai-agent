@@ -1,0 +1,1 @@
+print("Hellp Daniel, my AI project start now!")
